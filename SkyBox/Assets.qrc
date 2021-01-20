@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/cube.png</file>
+        <file>assets/back.jpg</file>
+        <file>assets/bottom.jpg</file>
+        <file>assets/right.jpg</file>
+        <file>assets/background.png</file>
+        <file>assets/bg_1.png</file>
+        <file>assets/bg_new.png</file>
+        <file>assets/bg1.jpg</file>
+        <file>assets/building.png</file>
+        <file>assets/calculate.png</file>
+        <file>assets/get1.png</file>
+        <file>assets/reboot.png</file>
+        <file>assets/receiver.png</file>
+        <file>assets/wx.png</file>
+        <file>assets/wx_1.png</file>
+        <file>assets/wx_g1.png</file>
+        <file>assets/wx1.png</file>
+        <file>assets/close.png</file>
+        <file>assets/max.png</file>
+        <file>assets/min.png</file>
+        <file>assets/set.png</file>
+        <file>assets/earth.png</file>
+        <file>assets/wx_l.jpg</file>
+        <file>assets/bg.jpg</file>
+        <file>assets/set.jpg</file>
+    </qresource>
+</RCC>
